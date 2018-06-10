@@ -1,0 +1,63 @@
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\bin\Debug\ProjectApp.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page1.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page2.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page3.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page4.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\App.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.cache
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.lref
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\MainWindow.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page1.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page2.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page3.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\Page4.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.baml
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp.g.resources
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp.Properties.Resources.resources
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe
+C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\ProjectApp\ProjectApp\obj\Debug\ProjectApp.pdb
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe.config
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\bin\Debug\ProjectApp.pdb
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\CarsConfigs.g.cs
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\Page1.g.cs
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.g.cs
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\App.g.cs
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.cache
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.lref
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\CarsConfigs.baml
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\MainWindow.baml
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\Page1.baml
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.baml
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.g.resources
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.pdb
+C:\Users\Łukasz\Desktop\ProjektDotNet-master\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe.config
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.pdb
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\bin\Debug\ProjectApp.pdb
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\CarsConfigs.g.cs
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\MainWindow.g.cs
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.g.cs
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\App.g.cs
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.cache
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp_MarkupCompile.lref
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\CarsConfigs.baml
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\MainWindow.baml
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ShoppingCart.baml
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.g.resources
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.Properties.Resources.resources
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.GenerateResource.Cache
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\Menu.g.cs
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\Menu.baml
+C:\Users\lukas_000\Documents\Projects\VS\ProjektDotNet-master\ProjektDotNet\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csprojResolveAssemblyReference.cache
